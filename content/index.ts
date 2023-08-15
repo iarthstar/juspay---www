@@ -1,0 +1,1 @@
+export { NAV_MENU, CLIENTS, TESTIMONIALS } from "./common";
